@@ -7,7 +7,7 @@ import { dimensions, randomIntegerInRange } from "./utils";
 import { colors, eventTypes, types, MAX_PARTICLES } from "./configs";
 
 window.DEFAULT_INFO = {
-  count: randomIntegerInRange(2400, 3200),
+  count: randomIntegerInRange(600, 1200),
   type: types.DEFAULT
 };
 
